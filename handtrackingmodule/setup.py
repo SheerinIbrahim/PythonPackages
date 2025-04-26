@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="hand_tracking_module_sheerin",
+    name="HandTrackingModuleSheerin",
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
